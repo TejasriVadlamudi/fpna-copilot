@@ -1,0 +1,15 @@
+streamlit
+plotly
+pandas
+python-dotenv
+langchain==0.3.7
+langchain-core==0.3.21
+langchain-community==0.3.5
+langchain-openai==0.2.8
+langchain-text-splitters==0.3.2
+langsmith==0.1.147
+openai
+chromadb
+pypdf
+tiktoken
+numpy<2
